@@ -8,10 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-<!-- {% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
+
 
 
 
@@ -23,5 +20,9 @@ author_profile: true
 
 
 
-### 学术研究
+### 项目发布
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
 
