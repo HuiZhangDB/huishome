@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "HuisHome"
 title_separator          : "-"
-name                     : &name "Hui"
+name                     : &name "Hui Zhang"
 description              : &description "Huis homepage"
 url                      : http://zhanghui.ac.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
